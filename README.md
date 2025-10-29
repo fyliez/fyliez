@@ -11,9 +11,9 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/fyliez" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge">
-  </a>
+<a href="https://twitter.com/fyliez" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/fyliez?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Follow">
+</a>
 </p>
 
 - 🔭 I’m currently working on **Raven Software**
