@@ -82,8 +82,7 @@
 ### 📫 Let's Connect
 
 - 📩 Email: [fyliez1337@gmail.com](mailto:fyliez1337@gmail.com), [dilek@muslim.com](mailto:dilek@muslim.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fyliez)  
-- 🐦 [Twitter](https://twitter.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fyliez-baba-95b67a220/)
 - 📸 [Instagram](https://instagram.com/_fyliez)  
 - ▶️ [YouTube](https://www.youtube.com/c/fyliez)
 
