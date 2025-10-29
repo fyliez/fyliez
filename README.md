@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm fyliez 👋! </h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fyliez&label=Profile%20views&color=0e75b6&style=flat" alt="fyliez" />
+  <img src="https://komarev.com/ghpvc/?username=fyliez&base=150000&label=Profile%20views&color=0e75b6&style=flat" alt="fyliez" />
 </p>
 
 <p align="left">
