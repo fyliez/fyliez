@@ -1,18 +1,31 @@
 <h1 align="center"> Hi, I'm fyliez 👋! </h1>
-<p align="center">
-  <i>A passionate developer exploring software, game dev, and cloud technologies.</i><br/>
-  🔭 Currently working on <b>Raven Software</b>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fyliez&label=Profile%20views&color=0e75b6&style=flat" alt="fyliez" />
 </p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=fyliez&theme=onestar&no-frame=true&margin-w=15" alt="trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  </a>
+</p>
+
+- 🔭 I’m currently working on **Raven Software**
 
 ---
 
 ### 💻 About Me
 
-- 🎮 Game development enthusiast (Unity, Unreal Engine)  
-- ☁️ Experience with cloud platforms like AWS, Azure, GCP  
-- 💻 Open-source contributor and hackathon participant  
-- 🌍 Always exploring new tools and technologies  
-- 💡 Interested in AI, robotics, and web development  
+- 🔐 Focused on **cybersecurity, reverse engineering, and vulnerability research** (ethical / defensive)  
+- 🛠️ Hands-on with malware analysis, binary reversing, and defensive tooling (only in legal, research or authorized contexts)  
+- ☁️ Experience with cloud platforms, game/hardware debugging and general software engineering  
+- 🌍 Hackathon participant; open-source contributor; always learning
 
 ---
 
@@ -30,34 +43,34 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E6E6E?style=flat)
 
 #### ⚙️ Tools & Technologies
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-F9AB00?style=flat&logo=google-cloud&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-4C4C4C?style=flat)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-8A2BE2?style=flat)
+![Radare2](https://img.shields.io/badge/Radare2-222222?style=flat)
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-1F8ACB?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-3BA4FF?style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-8A2BE2?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5A5F?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
 ### 🏆 Projects & Achievements
 
-- 🎮 Developed games using Unity & Unreal Engine  
-- ☁️ Cloud projects with AWS, Azure, GCP  
-- 💻 Open-source contributions on GitHub  
-- 🏆 Hackathon & coding competition participant  
+- 🔎 Vulnerability research & authorized reverse engineering projects (disclosure handled responsibly)  
+- 🛡️ Defensive tooling and automation for incident response & analysis  
+- 💻 Open-source contributions focused on tooling for analysts and researchers  
+- 🏆 Participant in security CTFs and research programs
 
 ---
 
@@ -67,7 +80,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/fyliez)  
 - 🐦 [Twitter](https://twitter.com/)  
 - 📸 [Instagram](https://instagram.com/_fyliez)  
-- ▶️ [YouTube](https://www.youtube.com/c/fyliez)  
+- ▶️ [YouTube](https://www.youtube.com/c/fyliez)
 
 ---
 
