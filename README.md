@@ -2,7 +2,7 @@
 ![fyliez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fyliez&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--yedek!-->
 <h1 align="center">Hi 👋, I'm fyliez (babapro)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fyliez&label=Profile%20views&color=0e75b6&style=flat" alt="fyliez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fyliez&base=12000&label=Profile%20views&color=0e75b6&style=flat" alt="fyliez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fyliez" alt="fyliez" /></a> </p>
 
