@@ -23,8 +23,8 @@
 ### 💻 About Me
 
 - 🔐 Focused on **cybersecurity, reverse engineering, and vulnerability research** (ethical / defensive)  
-- 🛠️ Hands-on with malware analysis, binary reversing, and defensive tooling (only in legal, research or authorized contexts)  
-- ☁️ Experience with cloud platforms, game/hardware debugging and general software engineering  
+- 🛠️ Hands-on with malware analysis, binary reversing, debugging and defensive tooling (only in legal, research or authorized contexts)  
+- ☁️ Experience with cloud platforms and general software engineering  
 - 🌍 Hackathon participant; open-source contributor; always learning
 
 ---
@@ -57,9 +57,14 @@
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-8A2BE2?style=flat)
 ![Radare2](https://img.shields.io/badge/Radare2-222222?style=flat)
 ![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-1F8ACB?style=flat)
+![x64dbg](https://img.shields.io/badge/x64dbg-0A0A0A?style=flat)
+![HxD](https://img.shields.io/badge/HxD-1E90FF?style=flat)
+![OllyDbg](https://img.shields.io/badge/OllyDbg-333333?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-3BA4FF?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-8A2BE2?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5A5F?style=flat)
+![GDB](https://img.shields.io/badge/GDB-3A3A3A?style=flat)
+![HxC (Hex editors)](https://img.shields.io/badge/Hex-editor-HxD%2C%20010Editor?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
