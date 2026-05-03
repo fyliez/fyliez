@@ -16,7 +16,7 @@
 </a>
 </p>
 
-- 🔭 I’m currently working on **Raven Software**
+- 🔭 I’m currently working on **GenZ Software**
 
 ---
 
