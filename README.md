@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm fyliez 👋</h1>
 
 <p align="center">
-  <b>Software Developer • Cybersecurity Researcher • Game Developer</b>
+  <b>Software Developer • Cybersecurity Researcher • System Builder</b>
 </p>
 
 <p align="center">
-  Building software, exploring systems, and creating interactive experiences.
+  Building software, exploring systems, and creating useful tools.
 </p>
 
 <p align="center">
@@ -16,67 +16,51 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer interested in building real-world software, understanding complex systems, and creating innovative projects.
+I'm a developer focused on software engineering, cybersecurity, and understanding how complex systems work.
 
-Currently working on **GenZ Software** and exploring:
+Currently building **GenZ Software** and working on projects involving:
 
-- 🎮 Multiplayer game development
-- 🔐 Cybersecurity & defensive research
-- 🔎 Reverse engineering and system analysis
-- ⚙️ Backend architecture and scalable infrastructure
-- 🛠️ Developer tools and automation
+- 🔐 Cybersecurity research & defensive tooling
+- 🔎 Reverse engineering and binary analysis
+- ⚙️ Backend systems and infrastructure
+- 🛠️ Automation and developer tools
+- 🌐 Open-source software
 
-I enjoy learning how things work internally and turning ideas into usable products.
+I enjoy building, researching, and improving systems through continuous learning.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I Build
 
-<table>
-<tr>
+### 🔐 Security Research Tools
 
-<td width="50%">
+Projects focused on:
 
-## 🎮 TheCursedEstate
+- System analysis
+- Binary investigation
+- Security automation
+- Defensive research workflows
 
-A multiplayer psychological horror experience built with **Unreal Engine 5**.
 
-Features:
-- 👥 Multiplayer gameplay systems
-- 🌧️ Atmospheric horror mechanics
-- 🎲 Dynamic gameplay events
-- 🎧 Immersive sound & environment systems
+### ⚙️ Software & Infrastructure
 
-Tech:
-`Unreal Engine 5` `C++` `Blueprints` `Steam Networking`
+Building applications and backend systems with focus on:
 
-</td>
+- Performance
+- Scalability
+- Clean architecture
+- Automation
 
-<td width="50%">
 
-## 🔎 OSINT Search Platform
+### 🌍 Open Source
 
-A large-scale search and indexing platform focused on security research and data analysis.
-
-Features:
-- ⚡ High-performance search
-- 📊 Large dataset processing
-- 🗄️ Database optimization
-- 🚀 API-driven architecture
-
-Tech:
-`ClickHouse` `Fastify` `Redis` `Docker`
-
-</td>
-
-</tr>
-</table>
+Contributing to projects and creating tools that help developers and researchers.
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -86,35 +70,35 @@ Tech:
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Technologies
+---
 
-<p>
-<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+# 🔧 Tools & Technologies
 
-### Security & Research
+### Development
+- Git
+- Linux
+- Docker
+- Cloud platforms
+- Databases
 
+### Security
 - Ghidra
 - IDA Pro
 - x64dbg
 - Binary Ninja
+- Radare2
 - Wireshark
 - Burp Suite
-- Radare2
 
 ---
 
-# 🏆 Experience & Achievements
+# 🏆 Experience
 
-- 🔐 Security research and defensive tooling projects
-- 🎮 Independent game development
-- 🧩 Reverse engineering and system analysis
-- 🌍 Open-source development
-- 🏁 Security challenges and technical research
+- 🔐 Security research and defensive analysis
+- 🛠️ Software development projects
+- ⚙️ Backend and infrastructure work
+- 🌍 Open-source contributions
+- 📚 Continuous technical learning
 
 ---
 
@@ -137,18 +121,12 @@ Tech:
 
 # 📫 Connect
 
-<p>
-<a href="mailto:fyliez1337@gmail.com">
-<img src="https://img.shields.io/badge/Email-fyliez1337@gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/fyliez">
-<img src="https://img.shields.io/badge/GitHub-fyliez-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- 📩 Email: fyliez1337@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/fyliez-baba-95b67a220/
+- ▶️ YouTube: https://www.youtube.com/c/fyliez
 
 ---
 
 <p align="center">
-🚀 Building projects. Learning systems. Improving every day.
+🚀 Always building, always learning.
 </p>
